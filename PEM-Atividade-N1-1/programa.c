@@ -1,6 +1,14 @@
 // Autor: Lucas Barboza Costa
 // PEM-Atividade N1-1:Variáveis Compostas Homogêneas
 
+/*
+    O uso de struct aqui poderia diminuir muitas linhas
+    e facilitar entendimento do código.
+    Porém como não foi abordado em aula (ainda), optei por não
+    colocar..
+*/
+
+
 #include <stdio.h>
 #include <string.h>  // strcpy, strcspn
 #include <windows.h> // para mostrar cedilha e outros
