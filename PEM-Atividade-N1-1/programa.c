@@ -1,3 +1,11 @@
+/*-------------------------------------------------------*
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: Calcular notas e exibir media    *
+* Data - 21/02/2025                                      * 
+* Autor: Lucas Costa                                     *
+*--------------------------------------------------------*/
 #include <stdio.h>
 #include <string.h>
 #include <windows.h> // Apenas para sistemas Windows (configuração de codificação)
