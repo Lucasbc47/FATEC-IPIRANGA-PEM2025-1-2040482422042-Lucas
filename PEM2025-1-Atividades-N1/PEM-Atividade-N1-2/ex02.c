@@ -7,7 +7,8 @@
  * Autor: Lucas Barboza                                  *
  *--------------------------------------------------------*/
 
-// Um exercício não complexo, porém trabalhoso...
+//  ̶U̶m̶ ̶e̶x̶e̶r̶c̶í̶c̶i̶o̶ ̶n̶ã̶o̶ ̶c̶o̶m̶p̶l̶e̶x̶o̶,̶ ̶p̶o̶r̶é̶m̶ ̶t̶r̶a̶b̶a̶l̶h̶o̶s̶o̶.̶.̶.̶ 
+//  Eu compliquei as coisas, NÃO TENHO IDEIA DO PORQUê 😂
 
 #include <stdio.h>
 #include <stdlib.h>
