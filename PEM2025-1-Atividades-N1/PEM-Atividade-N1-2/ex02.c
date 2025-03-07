@@ -104,7 +104,7 @@ int main()
             }
 
             printf("Insira o codigo do produto (ex: S123): ");
-            scanf("%s", codigo);
+            scanf("%4s", codigo); // evitando buffer overflow
             if (!validar_codigo(codigo))
             {
                 printf("[ERRO] Codigo invalido! Formato: LNNN (ex: S123)\n");
