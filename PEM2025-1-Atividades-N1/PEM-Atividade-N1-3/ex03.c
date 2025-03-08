@@ -42,7 +42,7 @@ int main()
     // Modificar o array
     modificar_arr(arr);
 
-    // Mostrar posições de memória (NEW)
+    // Mostrar posições de memória
     mostrar_pos_memoria(arr);
 
     return 0;
@@ -97,6 +97,6 @@ void mostrar_pos_memoria(int *arr)
     printf("[>] Posicoes de memoria do array:\n");
     for (int i = 0; i < TAM_ARR_FIXO; i++)
     {
-        printf("Elemento %d (%d) Endereco: %p\n", i, arr[i], (void *)(arr + i));
+        printf("arr[%d] = %d - end: [%p]\n", i, arr[i], (void *)(arr + i));
     }
 }
